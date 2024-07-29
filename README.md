@@ -3,6 +3,11 @@
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;I'm+a+passionate+frontend+developer+from+Sri Lanka" /></a>
+</h3>
+
+
 <div align="center">
   <picture>
     <source
