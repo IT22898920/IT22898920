@@ -42,7 +42,6 @@ const ravindu = {
     motto: "Code is poetry written in logic 💭"
 };
 ```
-
 <br clear="right"/>
 
 ---
