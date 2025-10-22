@@ -3,6 +3,8 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer;Problem+Solver;Always+Learning+%F0%9F%93%9A)
+
+
   
 </div>
 
